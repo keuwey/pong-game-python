@@ -28,7 +28,7 @@ Then run
 Player nº 1 uses `w` and `s` to move the paddle up and down, and the player nº 2 uses the arrow keys `up` and `down` `(↑)` `(↓)` to move the paddle up and down.
 ## Authors
 
-- [@keuwey](https://www.github.com/keuwey)
+[Kevin Halley](https://www.github.com/keuwey)
 
 
 ## Contributing
@@ -37,3 +37,6 @@ Contributions are always welcome!
 
 If you want to contribute to this little project, open an issue and let me know your thoughts.
 
+## Screnshots
+
+![App Screenshot
