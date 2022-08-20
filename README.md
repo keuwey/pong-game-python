@@ -39,4 +39,4 @@ If you want to contribute to this little project, open an issue and let me know 
 
 ## Screnshots
 
-![App Screenshot
+![App Screenshot](pong-screenshot.png)
